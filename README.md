@@ -119,6 +119,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- If you want to leave a tip, you can send it to the following address:   ```bash
-   QLnkmkBW6mrVAN7mpdZb4hbXM8mSpHtCTJBGTnPpimp
-   ```
+- If you want to leave a tip, you can send it to the following address:   ```QLnkmkBW6mrVAN7mpdZb4hbXM8mSpHtCTJBGTnPpimp```
