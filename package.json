@@ -1,0 +1,21 @@
+{
+  "name": "solana-vanity-address-generator",
+  "author": "spam5041",
+  "version": "1.0.0",
+  "description": "A tool for generating custom Solana wallet addresses with specified prefixes and/or suffixes",
+  "main": "vanity.js",
+  "scripts": {
+    "start": "node vanity.js"
+  },
+  "keywords": [
+    "solana",
+    "blockchain",
+    "cryptocurrency",
+    "vanity-address",
+    "wallet"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.0"
+  }
+} 
