@@ -119,7 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Check the troubleshooting section
-- Review existing issues
+- If you want to leave a tip, you can send it to the following address:   ```bash
+   QLnkmkBW6mrVAN7mpdZb4hbXM8mSpHtCTJBGTnPpimp
+   ```
